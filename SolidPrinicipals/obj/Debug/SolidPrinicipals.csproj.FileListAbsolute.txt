@@ -1,0 +1,10 @@
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\bin\Debug\SolidPrinicipals.exe.config
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\bin\Debug\SolidPrinicipals.exe
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\bin\Debug\SolidPrinicipals.pdb
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.csprojAssemblyReference.cache
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.Form1.resources
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.Properties.Resources.resources
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.csproj.GenerateResource.cache
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.csproj.CoreCompileInputs.cache
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.exe
+E:\Ankit\WorkArea\SolidPrinicipals\SolidPrinicipals\obj\Debug\SolidPrinicipals.pdb
